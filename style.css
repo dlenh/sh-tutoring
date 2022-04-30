@@ -6,10 +6,12 @@
 }
 
 section {
-    width: 85%;
+    width: 90%;
     height: auto;
     border: 2px solid red;
-    margin: 0 auto;
+    border-radius: 5px;
+    padding: 2rem;
+    margin: 2rem auto;
 }
 
 ul {
