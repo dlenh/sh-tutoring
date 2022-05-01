@@ -5,6 +5,14 @@
     font-family: 'Raleway', sans-serif;
 }
 
+a {
+    text-decoration: none;
+}
+
+nav {
+    padding: 2rem;
+}
+
 section {
     width: 90%;
     height: auto;
