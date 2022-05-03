@@ -10,16 +10,36 @@ a {
 }
 
 nav {
-    padding: 2rem;
+    padding-top: 2rem;
 }
 
-section {
+img {
+    width: 200px;
+}
+
+#welcome,
+#about,
+#services,
+#testimonies,
+#contact {
     width: 90%;
-    height: auto;
+    height: 20rem;
     border: 2px solid red;
-    border-radius: 5px;
-    padding: 2rem;
+    border-radius: 5rem;
+    padding: 3rem;
     margin: 2rem auto;
+}
+
+.flex {
+    display: flex;
+    height: 100%;
+}
+
+p {
+    width: 50%;
+    max-width: 100%;
+    max-height: 100%;
+    overflow: auto;
 }
 
 ul {
@@ -27,9 +47,14 @@ ul {
 }
 
 #navbar {
-    width: 75%;
+    width: 75vw;
     display: flex;
     align-items: center;
-    /* justify-content: space-between; */
-    gap: 2rem;
+    justify-content: space-evenly;
+    /* gap: 2rem; */
+    border: 2px solid red;
+}
+
+li {
+    flex: 1;
 }
