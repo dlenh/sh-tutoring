@@ -19,6 +19,10 @@ nav {
     width: 200px;
 }
 
+.samhong {
+   
+}
+
 #welcome,
 #about,
 #services,
@@ -28,7 +32,7 @@ nav {
     height: 20rem;
     border: 0.75rem solid white;
     border-radius: 5rem;
-    padding: 5rem 3rem;
+    padding: 2rem 3rem;
     margin: 2rem auto;
     scroll-margin-top: 6rem;
 }
@@ -36,6 +40,7 @@ nav {
 .flex {
     display: flex;
     height: 100%;
+    /* justify-content: space-evenly; */
 }
 
 p {
