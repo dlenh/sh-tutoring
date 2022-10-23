@@ -1697,7 +1697,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #43bff0;
+			background-color: #1a9dd1;
 			color: #fff !important;
 		}
 
@@ -1706,9 +1706,84 @@ input, select, textarea {
 		input[type="reset"]:active,
 		button:active,
 		.button:active {
-			background-color: #3BA8D3;
+			background-color: #1a9dd1;
 			top: 1px;
 		}
+
+		.button-about {
+			background-color: rgb(255, 154, 169, 1)
+		}
+
+		/* input[type="button"]:hover,
+		input[type="submit"]:hover,
+		input[type="reset"]:hover, */
+		button-about:hover,
+		.button-about:hover {
+			background-color:  rgb(250, 117, 137);
+			color: #fff !important;
+		}
+
+		/* input[type="button"]:active,
+		input[type="submit"]:active,
+		input[type="reset"]:active, */
+		button-about:active,
+		.button-about:active {
+			background-color: rgb(250, 117, 137);
+			top: 1px;
+		}
+
+		.button-services {
+			background-color: rgb(255, 202, 152)
+		}
+
+		/* input[type="button"]:hover,
+		input[type="submit"]:hover,
+		input[type="reset"]:hover, */
+		button-services:hover,
+		.button-services:hover {
+			background-color: rgb(252, 182, 117);
+			color: #fff !important;
+		}
+
+		/* input[type="button"]:active,
+		input[type="submit"]:active,
+		input[type="reset"]:active, */
+		button-services:active,
+		.button-services:active {
+			background-color: rgb(252, 182, 117);
+			top: 1px;
+		}
+
+		.button-testimonies {
+			background-color: rgb(124, 233, 200)
+		}
+
+		/* input[type="button"]:hover,
+		input[type="submit"]:hover,
+		input[type="reset"]:hover, */
+		button-testimonies:hover,
+		.button-testimonies:hover {
+			background-color: rgb(47, 201, 154);
+			color: #fff !important;
+		}
+
+		/* input[type="button"]:active,
+		input[type="submit"]:active,
+		input[type="reset"]:active, */
+		button-testimonies:active,
+		.button-testimonies:active {
+			background-color: rgb(47, 201, 154);
+			top: 1px;
+		}
+
+		/* input[type="button"]:active,
+		input[type="submit"]:active,
+		input[type="reset"]:active,
+		button:active,
+		.button:active {
+			background-color: #3BA8D3;
+			top: 1px;
+		} */
 
 		input[type="button"].large,
 		input[type="submit"].large,
