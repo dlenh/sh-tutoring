@@ -13,4 +13,4 @@ The endgoal of this project was to create a landing page for my client so that s
 
 ## Lesson Learned: 
 
-Templates can be used instead of writing the HTML boilerplate from scratch. This allows for more focus on the content rather than the design. Weekly meetings with client to update progress were invaluable and I am glad she is happy with the final product. 
+Templates can be used instead of writing the HTML boilerplate from scratch. This allowed for more focus on the content rather than the design. Weekly meetings with client to update progress were invaluable and I am glad she is happy with the final product!
